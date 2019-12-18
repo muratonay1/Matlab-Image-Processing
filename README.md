@@ -53,3 +53,10 @@ Matlab kullanarak yapmış olduğum görüntü işleme denemeleri
 
 ![aynalama](https://user-images.githubusercontent.com/34923740/71036645-253aa000-212f-11ea-98e2-c3aecc287046.PNG)
 
+
+
+# Brightness Adjust
+
+
+
+![parlaklik](https://user-images.githubusercontent.com/34923740/71127495-45846080-21fc-11ea-97ed-5cbc6c8625a3.PNG)
